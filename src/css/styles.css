@@ -1,0 +1,43 @@
+body {
+  background: #EAE3CB;
+}
+ul {
+  margin: 0 auto;
+  margin-top:50px;
+  padding: 0;
+  width: 310px;
+}
+
+ul li {
+  list-style: none;
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+}
+.yellow{
+  background: yellow;
+}
+.orange{
+    background: orange;
+}
+.purple{
+    background: purple;
+}
+.blue{
+    background: blue;
+}
+.pink{
+    background: pink;
+}
+.green{
+    background: green;
+}
+.lightgreen{
+    background: lightgreen;
+}
+.gray{
+    background:  grey;
+}
+.red{
+    background: red;
+}
